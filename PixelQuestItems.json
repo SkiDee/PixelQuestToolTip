@@ -1,0 +1,276 @@
+{
+  "rusted_hatchet": {
+    "name": "Rusted Hatchet",
+    "type": "Axe",
+    "rarity": "T0",
+    "description": "An old blunt logging hatchet with flaking metal. More stubborn than sharp.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 28-32", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T0.png",
+      "bag": "T0_bag.png",
+      "chest": "T0_Chest.png",
+      "rarity": "T0.png"
+    }
+  },
+  
+  "iron_axe": {
+    "name": "Iron Axe",
+    "type": "Axe",
+    "rarity": "T1",
+    "description": "A simple, yet dependable axe made of solid iron.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 43-47", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T1.png",
+      "bag": "T1_bag.png",
+      "chest": "T1_Chest.png",
+      "rarity": "T1.png"
+    }
+  },
+  
+  "steel_broadaxe": {
+    "name": "Steel Broadaxe",
+    "type": "Axe",
+    "rarity": "T2",
+    "description": "A broad-bladed axe forged from harder steel.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 58-62", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T2.png",
+      "bag": "T2_bag.png",
+      "chest": "T2_Chest.png",
+      "rarity": "T2.png"
+    }
+  },
+  
+  "harbringers_axe": {
+    "name": "Harbringer's Axe",
+    "type": "Axe",
+    "rarity": "T3",
+    "description": "A questionably heavy axe that was forged to smash warrior shields.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 73-77", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T3.png",
+      "bag": "T3_bag.png",
+      "chest": "T3_Chest.png",
+      "rarity": "T3.png"
+    }
+  },
+  
+  "verdant_axe": {
+    "name": "Verdant Axe",
+    "type": "Axe",
+    "rarity": "T4",
+    "description": "An axe fitted with a polished green blade cut from deep stone.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 88-92", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T4.png",
+      "bag": "T4_bag.png",
+      "chest": "T4_Chest.png",
+      "rarity": "T4.png"
+    }
+  },
+  
+  "skysteel_axe": {
+    "name": "Skysteel Axe",
+    "type": "Axe",
+    "rarity": "T5",
+    "description": "An unyielding axe forged from a rare pale alloy.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 103-107", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T5.png",
+      "bag": "T5_bag.png",
+      "chest": "T5_Chest.png",
+      "rarity": "T5.png"
+    }
+  },
+  
+  "frostbite_axe": {
+    "name": "Frostbite Axe",
+    "type": "Axe",
+    "rarity": "T6",
+    "description": "A pale glinting axe frozen to the touch, yet dangerous.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 118-122", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T6.png",
+      "bag": "T6_bag.png",
+      "chest": "T6_Chest.png",
+      "rarity": "T6.png"
+    }
+  },
+  
+  "blazing_hatchet": {
+    "name": "Blazing Hatchet",
+    "type": "Axe",
+    "rarity": "T7",
+    "description": "A fierce battle hatchet producing a steady hot-burning flame.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 133-137", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T7.png",
+      "bag": "T7_bag.png",
+      "chest": "T7_Chest.png",
+      "rarity": "T7.png"
+    }
+  },
+  
+  "champions_battleaxe": {
+    "name": "Champion's Battleaxe",
+    "type": "Axe",
+    "rarity": "T8",
+    "description": "A sturdy, elegant axe once wielded in the final rites of champions.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 148-152", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T8.png",
+      "bag": "T8_bag.png",
+      "chest": "T8_Chest.png",
+      "rarity": "T8.png"
+    }
+  },
+  
+  "horror_axe": {
+    "name": "Horror Axe",
+    "type": "Axe",
+    "rarity": "T9",
+    "description": "A dark axe of unknown make, found buried deep. Its presence alone unsettles the air.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 163-167", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T9.png",
+      "bag": "T9_bag.png",
+      "chest": "T9_Chest.png",
+      "rarity": "T9.png"
+    }
+  },
+  
+  "axe_of_twilight": {
+    "name": "Axe of Twilight",
+    "type": "Axe",
+    "rarity": "T10",
+    "description": "A cursed bloodsteel axe which fuels the wielder with an uncontrollable rage.",
+    "flavorText": "",
+    "stats": {
+      "onDamage": [
+        {"text": "Damage: 178-182", "color": "positive"},
+        {"text": "Range: 6 tiles", "color": "positive"},
+        {"text": "Shots: 1", "color": "special"},
+        {"text": "Rate of Fire: 1/s", "color": "special"}
+      ]
+    },
+    "specialEffects": [
+      "Shots hit multiple enemies"
+    ],
+    "images": {
+      "item": "Axe_T10.png",
+      "bag": "T10_bag.png",
+      "chest": "T10_Chest.png",
+      "rarity": "T10.png"
+    }
+  }
+}
