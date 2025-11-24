@@ -67,7 +67,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T2.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Steel_Broadaxe.webp",
       "bag": "T2_bag.png",
       "chest": "T2_Chest.png",
       "rarity": "T2.png"
@@ -92,7 +92,8 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T3.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Harbinger's_Axe.webp
+",
       "bag": "T3_bag.png",
       "chest": "T3_Chest.png",
       "rarity": "T3.png"
@@ -117,7 +118,8 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T4.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Verdant_Axe.webp
+",
       "bag": "T4_bag.png",
       "chest": "T4_Chest.png",
       "rarity": "T4.png"
@@ -142,7 +144,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T5.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Skysteel_Axe.webp",
       "bag": "T5_bag.png",
       "chest": "T5_Chest.png",
       "rarity": "T5.png"
@@ -167,7 +169,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T6.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Frostbite_Axe.webp",
       "bag": "T6_bag.png",
       "chest": "T6_Chest.png",
       "rarity": "T6.png"
@@ -192,7 +194,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T7.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Blazing_Hatchet.webp",
       "bag": "T7_bag.png",
       "chest": "T7_Chest.png",
       "rarity": "T7.png"
@@ -217,7 +219,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T8.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Champion’s_Battleaxe.webp",
       "bag": "T8_bag.png",
       "chest": "T8_Chest.png",
       "rarity": "T8.png"
@@ -242,7 +244,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T9.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Horror_Axe.webp",
       "bag": "T9_bag.png",
       "chest": "T9_Chest.png",
       "rarity": "T9.png"
@@ -267,7 +269,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T10.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Axe_of_Twilight.webp",
       "bag": "T10_bag.png",
       "chest": "T10_Chest.png",
       "rarity": "T10.png"
@@ -275,5 +277,6 @@
   }
 
 }
+
 
 
