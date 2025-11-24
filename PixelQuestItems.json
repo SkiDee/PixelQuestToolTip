@@ -117,8 +117,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Verdant_Axe.webp
-",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Verdant_Axe.webp",
       "bag": "T4_bag.png",
       "chest": "T4_Chest.png",
       "rarity": "T4.png"
@@ -276,6 +275,7 @@
   }
 
 }
+
 
 
 
