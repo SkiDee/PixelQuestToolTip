@@ -42,7 +42,7 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T1.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/Axes/Iron_Axe.webp",
       "bag": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/T0+1l.webp",
       "chest": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/T0+1c.webp",
       "rarity": "T1.png"
@@ -275,4 +275,5 @@
   }
 
 }
+
 
