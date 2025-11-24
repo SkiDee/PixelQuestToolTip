@@ -17,9 +17,9 @@
       "Shots hit multiple enemies"
     ],
     "images": {
-      "item": "Axe_T0.png",
-      "bag": "T0_bag.png",
-      "chest": "T0_Chest.png",
+      "item": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/T0-Rusted-Hatchet.webp",
+      "bag": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/T0+1l.webp",
+      "chest": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/T0+1c.webp",
       "rarity": "T0.png"
     }
   },
@@ -43,8 +43,8 @@
     ],
     "images": {
       "item": "Axe_T1.png",
-      "bag": "T1_bag.png",
-      "chest": "T1_Chest.png",
+      "bag": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/T0+1l.webp",
+      "chest": "https://raw.githubusercontent.com/SkiDee/PixelQuestToolTip/main/T0+1c.webp",
       "rarity": "T1.png"
     }
   },
@@ -273,4 +273,5 @@
       "rarity": "T10.png"
     }
   }
+
 }
